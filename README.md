@@ -10,7 +10,6 @@ For the piezoelectric-driven Flapping Wing Micro Aerial vehicle (FWMAV), the opt
 
 ![gear_ratio_and_input_displacement](https://github.com/xijunke/Transmission_drive_mechanism_for_FWMAV/blob/master/pic_png/gear_ratio_and_input_displacement.png)
 
-
 **2) Optimal linearity and approximate linearity**
 最优的线性度和近似线性度
 
@@ -21,12 +20,9 @@ For the piezoelectric-driven Flapping Wing Micro Aerial vehicle (FWMAV), the opt
 
 ![sensitivity_analysis_T_ratio_difference_L_c](https://github.com/xijunke/Transmission_drive_mechanism_for_FWMAV/blob/master/pic_png/sensitivity_analysis_T_ratio_difference_L_c.png)
 
-
 ![sensitivity_analysis_T_ratio_difference_L_s1](https://github.com/xijunke/Transmission_drive_mechanism_for_FWMAV/blob/master/pic_png/sensitivity_analysis_T_ratio_difference_L_s1.png)
 
-
 ![sensitivity_analysis_T_ratio_difference_L_s2](https://github.com/xijunke/Transmission_drive_mechanism_for_FWMAV/blob/master/pic_png/sensitivity_analysis_T_ratio_difference_L_s2.png)
-
 
 ![sensitivity_analysis_T_ratio_difference_L_s3](https://github.com/xijunke/Transmission_drive_mechanism_for_FWMAV/blob/master/pic_png/sensitivity_analysis_T_ratio_difference_L_s3.png)
 
